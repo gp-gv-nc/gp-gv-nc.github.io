@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 Student [UdeSA](www.udesa.edu.ar)
+T.A. [UADE](www.uade.edu.ar)
 
 For more info
 ------
